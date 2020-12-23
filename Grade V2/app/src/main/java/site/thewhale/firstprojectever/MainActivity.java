@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 editText1.setText("");
                 editText2.setText("");
-                
+
                 editText3.setText("");
                 editText4.setText("");
                 textView.setText("Result");
